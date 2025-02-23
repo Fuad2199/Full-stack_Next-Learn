@@ -5,7 +5,10 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <h1 className="bg-red-600">Hello World</h1>
+        <ol>
+          <li>Save and see your changes instantly.</li>
+          <li>Update workflow</li>
+        </ol>
       </main>
       <footer className={styles.footer}>
         
